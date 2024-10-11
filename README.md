@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing at the moment. Just here to keep my code accessible for now.
 - 📫 How to reach me: DM on Discord at NonbinaryCode
 - 😄 Pronouns: They/Them
-- ⚡ Fun fact: I have a dog, Cajun, and he's a Catahoula Leopard Dog! He's an old man (he's 14 years old) but also he is my puppy.
+- ⚡ Fun fact: I have a dog, Cajun, and he's a Catahoula Leopard Dog! He's an old man (he's 12 years old) but also he is my puppy.
 
 <!---
 yellowdog03/yellowdog03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
