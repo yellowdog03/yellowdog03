@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yellowdog03
 - 👀 I’m interested in PowerShell, Assembly, and Python!
-- 🌱 I’m currently learningAssembly language.
+- 🌱 I’m currently learning Assembly language.
 - 💞️ I’m looking to collaborate on nothing at the moment. Just here to keep my code accessible for now.
 - 📫 How to reach me: DM on Discord at NonbinaryCode
 - 😄 Pronouns: They/Them
